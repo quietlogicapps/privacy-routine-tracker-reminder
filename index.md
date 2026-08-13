@@ -4,37 +4,38 @@
 
 Last updated: 2026
 
-App name: Routine Tracker: Reminder  
+Official AppGallery app name: Routine Tracker: Reminder  
+Product brand shown inside the app: All Is OK  
 Developer: QuietLogic  
-Contact: quietlogicapps@gmail.com
+Contact: quietlogicapps@gmail.com  
 
-Routine Tracker: Reminder is designed to respect your privacy.
+Routine Tracker: Reminder is the official application name in AppGallery. The application interface displays All Is OK as its product brand. Both names refer to the same application.
 
-## Data Collection
+## Data Collection and Storage
 
-This app does NOT collect, store, or share any personal data.
+This app does not collect, transmit, sell, share, or store your personal data on external servers.
 
-All information entered in the app stays only on your device.
+Information you enter in the app, such as routines, reminders, contacts, and important information, is stored only locally on your device. QuietLogic cannot access this information.
 
 ## Permissions
 
-The app may request permissions such as notifications or phone access only to provide its core functionality (reminders, quick calling).
+The app may request permissions for notifications, exact alarms, display over other apps, or phone access only to provide its core features, including reminders, full-screen reminder alerts, and direct calling of selected contacts.
 
-No data is transmitted to external servers.
+No personal data is transmitted to external servers.
 
 ## Offline Usage
 
 Routine Tracker: Reminder works completely offline.
 
-No accounts, no cloud, no tracking.
+No account, cloud service, analytics, or tracking is used.
 
 ## Third-Party Services
 
-This app does not use third-party analytics or tracking tools.
+This app does not use third-party analytics, advertising, tracking, or cloud services.
 
 ## Contact
 
-If you have any questions, you can contact the developer at:
+If you have questions about this Privacy Policy, contact:
 
 quietlogicapps@gmail.com
 
@@ -46,36 +47,37 @@ quietlogicapps@gmail.com
 
 最后更新：2026年
 
-应用名称：Routine Tracker: Reminder  
+AppGallery 官方应用名称：Routine Tracker: Reminder  
+应用内显示的产品品牌：All Is OK  
 开发者：QuietLogic  
-联系邮箱：quietlogicapps@gmail.com
+联系邮箱：quietlogicapps@gmail.com  
 
-Routine Tracker: Reminder 旨在尊重您的隐私。
+Routine Tracker: Reminder 是 AppGallery 中的官方应用名称。应用界面中显示 All Is OK 作为产品品牌。两个名称均指同一个应用。
 
-## 数据收集
+## 数据收集和存储
 
-本应用不会收集、存储或共享任何个人数据。
+本应用不会收集、传输、出售、共享或在外部服务器上存储您的个人数据。
 
-在应用中输入的所有信息仅保存在您的设备上。
+您在应用中输入的信息，例如日常计划、提醒、联系人和重要信息，仅保存在您的设备本地。QuietLogic 无法访问这些信息。
 
 ## 权限
 
-本应用可能会请求通知或电话访问等权限，仅用于提供其核心功能（提醒、快速拨号）。
+本应用可能会请求通知、精确闹钟、在其他应用上层显示或电话访问等权限，仅用于提供核心功能，包括提醒、全屏提醒通知和直接呼叫已选择的联系人。
 
-不会向外部服务器传输任何数据。
+不会向外部服务器传输任何个人数据。
 
 ## 离线使用
 
 Routine Tracker: Reminder 完全离线运行。
 
-无需账户、不使用云服务、不进行跟踪。
+不使用账户、云服务、分析或跟踪功能。
 
 ## 第三方服务
 
-本应用不使用第三方分析或跟踪工具。
+本应用不使用第三方分析、广告、跟踪或云服务。
 
 ## 联系方式
 
-如果您对此有任何疑问，可以通过以下方式联系开发者：
+如对本隐私政策有任何疑问，请联系：
 
 quietlogicapps@gmail.com
