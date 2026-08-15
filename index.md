@@ -6,7 +6,7 @@ Last updated: 2026
 
 Official AppGallery app name: Routine Tracker: Reminder  
 Product brand shown inside the app: All Is OK  
-Developer: QuietLogic  
+Developer: Georgi Yordanov Ivanov  
 Contact: quietlogicapps@gmail.com  
 
 Routine Tracker: Reminder is the official application name in AppGallery. The application interface displays All Is OK as its product brand. Both names refer to the same application.
@@ -49,7 +49,7 @@ quietlogicapps@gmail.com
 
 AppGallery 官方应用名称：Routine Tracker: Reminder  
 应用内显示的产品品牌：All Is OK  
-开发者：QuietLogic  
+开发者：Georgi Yordanov Ivanov  
 联系邮箱：quietlogicapps@gmail.com  
 
 Routine Tracker: Reminder 是 AppGallery 中的官方应用名称。应用界面中显示 All Is OK 作为产品品牌。两个名称均指同一个应用。
